@@ -1,1 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Robert (曾彥儒) Page Header</h1>
+        <p>My work experience in the field.</p>
 
+    <b>part of cybersecurity:</b><br>
+<b>Android APP檢測</b><br>
+2020.03 自動導覽Living3.0 L1<br>
+2020.06 科教館行動導覽 L2<br>
+2020.09 原住民智慧部落 L1<br>
+2020.09 揪科Juiker L2<br>
+2020.10 元大收款通 O2Opayment L3<br>
+2020.11 幸福公路 L1<br>
+2021.01 台灣彩劵 L2<br>
+2021.02外租用車行車紀錄 L2<br>
+2021.02高雄挖管即時影像系統 L2<br>
+2021.03 富邦e+ L3<br>
+2021.03 富邦期貨線上開戶 L2<br>
+2021.07 成大e療通 L3<br>
+2021.07 H2U健康行事曆 L2<br>
+2021.06 河濱公園保全及施工管理系統 L2<br>
+2021.09 中國信託行動銀行 Home Bank L3<br>
+2021.11 中信行動企業家 L3<br>
+2021.12 華泰e企通 L2<br>
+<br>
+<b>iOS APP 檢測</b><br>
+2020.05 教學魔法師 L2<br>
+2020.07 C_Drive L2<br>
+2020.07 SecMail L2<br>
+2020.08 智慧部落管理 L1<br>
+2020.08 孕幼健康 L2<br>
+2020.09 原住民智慧部落 L1<br>
+2020.10 統一海期GO L3<br>
+2020.12 高雄市里政線上e指通 L2<br>
+2021.01 行動屏大 L2<br>
+2021.04 成大e療通 L3<br>
+2021.05 長照交通預約系統<br>
+2021.06 臺北榮總預約掛號暨看診進度查詢 L3<br>
+2021.09 中國信託行動銀行 Home Bank L3<br>
+2021.10 遠東商銀行動銀行 L3<br>
+2021.11 中信行動企業家 L3<br>
+2021.12 台中銀行行動銀行 L3<br>
+<br>
+<b>IOT輔導檢測</b><br>
+可取國際<br>
+串流國際<br>
+昇銳電子<br>
+哈柏科技<br>
+凌網<br>
+彩富電子<br>
+利凌企業<br>
+<br>
+<b>業務合作</b><br>
+台名保經<br>
+三竹資訊<br>
+依德科技<br>
+全球智慧城市<br>
+亞東證卷<br>
+陽信商銀<br>
+星嵐科技<br>
+<br>
+<b>課程與資格</b><br>
+2022.05 BSI ISO/IEC 27001:2013 資訊安全管理系統-主導稽核員CQI&IRCA國際登錄課程通過<br>
+    <a href="https://imgur.com/kiAZEo6">https://imgur.com/kiAZEo6</a>
+    <img src="https://imgur.com/kiAZEo6">https://imgur.com/kiAZEo6</img>
+<br>
+2022.07 經濟部工業局工控資安環境認知課程結訓<br>
+2022.08 經濟部工業局 [中堅企業&產業資安] 資安管理與維運班結訓<br>
+2022.08 經濟部工業局 [中堅企業&產業資安] 科技資安進階實作班結訓<br>
+<br>
+2023.01 ACW資安網路學院 資安線上課程(10節)通過<br>
+「資安長的策略決策規劃」完課證書ID號碼：0548c855977<br>
+「資安長的前一百天藍圖」完課證書ID號碼：614d1e56a57<br>
+「資安威脅發展趨勢與防禦策略」完課證書ID號碼：f9e4a281750<br>
+「應用程式安全」完課證書ID號碼：c3fc2dac375<br>
+「作業系統安全概論」完課證書ID號碼：04437cc3f0b<br>
+「網路安全概論」完課證書ID號碼：46232c64f90<br>
+「身分識別與存取控制」證書ID號碼：b9251f98784<br>
+「密碼學概論」 證書ID號碼：4974f10115a<br>
+「資安管理系統概論(風險管理)」證書ID號碼：deb68ff5a18<br>
+「國際資安發展趨勢與案例分享」證書ID號碼：f5b5efb79de<br>
+<br>
+<b>資安產品代理</b><br>
+瀾鉅_EPP機敏資料控管方案 (DLP)<br>
+中華龍網 端點資安管理平台 (EDR)<br>
+奕智鏈結 雲端文件保險箱<br>
+新思鹿 物聯網加解密晶片 (TPM)<br>
+雷擎先進 GCB<br>
+    <script src="script.js"></script>
+  </body>
+
+</html>
